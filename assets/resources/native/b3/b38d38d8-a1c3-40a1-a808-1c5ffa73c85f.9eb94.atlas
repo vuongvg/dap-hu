@@ -1,0 +1,118 @@
+
+Chum.png
+size: 1656,1656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 820, 761
+  size: 490, 500
+  orig: 1093, 1943
+  offset: 195, 265
+  index: -1
+2
+  rotate: false
+  xy: 663, 2
+  size: 346, 307
+  orig: 1093, 1943
+  offset: 507, 458
+  index: -1
+3
+  rotate: false
+  xy: 2, 11
+  size: 315, 247
+  orig: 1093, 1943
+  offset: 569, 348
+  index: -1
+4
+  rotate: false
+  xy: 1120, 319
+  size: 385, 440
+  orig: 1093, 1943
+  offset: 450, 170
+  index: -1
+5
+  rotate: false
+  xy: 663, 311
+  size: 455, 448
+  orig: 1093, 1943
+  offset: 264, 168
+  index: -1
+6
+  rotate: true
+  xy: 319, 18
+  size: 240, 310
+  orig: 1093, 1943
+  offset: 182, 306
+  index: -1
+light1
+  rotate: false
+  xy: 820, 1253
+  size: 683, 400
+  orig: 1093, 1943
+  offset: 169, 585
+  index: -1
+light2
+  rotate: false
+  xy: 2, 979
+  size: 816, 674
+  orig: 1093, 1943
+  offset: 139, 368
+  index: -1
+light_3
+  rotate: false
+  xy: 1322, 857
+  size: 311, 394
+  orig: 1093, 1943
+  offset: 169, 591
+  index: -1
+manh_vun1
+  rotate: false
+  xy: 1125, 176
+  size: 175, 141
+  orig: 1093, 1943
+  offset: 33, 583
+  index: -1
+manh_vun2
+  rotate: false
+  xy: 1302, 204
+  size: 162, 113
+  orig: 1093, 1943
+  offset: 931, 218
+  index: -1
+manh_vun3
+  rotate: false
+  xy: 1322, 761
+  size: 131, 94
+  orig: 1093, 1943
+  offset: 56, 246
+  index: -1
+manh_vun4
+  rotate: false
+  xy: 663, 791
+  size: 138, 186
+  orig: 1093, 1943
+  offset: 882, 501
+  index: -1
+nap 1
+  rotate: true
+  xy: 1011, 73
+  size: 236, 112
+  orig: 1093, 1943
+  offset: 546, 793
+  index: -1
+nap 2
+  rotate: true
+  xy: 1505, 1274
+  size: 379, 138
+  orig: 1093, 1943
+  offset: 284, 792
+  index: -1
+sang
+  rotate: false
+  xy: 2, 260
+  size: 659, 717
+  orig: 659, 717
+  offset: 0, 0
+  index: -1
