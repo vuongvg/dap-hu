@@ -1,0 +1,41 @@
+
+The.png
+size: 1508,1508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+open/Box
+  rotate: true
+  xy: 1084, 1064
+  size: 441, 421
+  orig: 441, 421
+  offset: 0, 0
+  index: -1
+open/Star
+  rotate: true
+  xy: 1084, 99
+  size: 154, 157
+  orig: 154, 157
+  offset: 0, 0
+  index: -1
+open/girf_2
+  rotate: false
+  xy: 1084, 255
+  size: 364, 364
+  orig: 364, 364
+  offset: 0, 0
+  index: -1
+open/light
+  rotate: false
+  xy: 2, 112
+  size: 1080, 1393
+  orig: 1080, 1393
+  offset: 0, 0
+  index: -1
+open/the
+  rotate: true
+  xy: 1084, 621
+  size: 441, 421
+  orig: 441, 421
+  offset: 0, 0
+  index: -1
